@@ -1,6 +1,6 @@
 ## GLSL Image Recolouring
 
-I had planned to try to recreate a piece of software for Windows XP called ColorSchemer Studio. The now discontinued application allowed artists to create colour pallets and featured a graphical user interface for exploring colour spaces.
+I had planned to try to recreate a piece of software for Windows XP called ColorSchemer Studio. The now discontinued application allowed artists to create colour palettes and featured a graphical user interface for exploring colour spaces.
 
 This GitHub repository contains a prototype of a feature designed to be used in my rewrite of ColorSchemer Studio. It is a machine learning feature to generate GLSL code to recolour an image.
 
